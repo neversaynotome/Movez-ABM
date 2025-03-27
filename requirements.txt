@@ -1,0 +1,10 @@
+# Required external packages:
+numpy>=1.20.0
+matplotlib>=3.3.0
+
+# Note: Tkinter is included in the standard Python distribution on Windows and macOS.
+# On some Linux distributions, it might not be installed by default.
+# For example, on Ubuntu you can install it with:
+#   sudo apt-get install python3-tk
+
+# Minimum Python version: 3.8
